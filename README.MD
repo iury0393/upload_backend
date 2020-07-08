@@ -31,33 +31,26 @@ Um projeto para fazer uploads de arquivos, com backend, frontend e mobile
 Clone Project
 
 ```git
-git clone https://github.com/iury0393/upload_files
+git clone https://github.com/iury0393/upload_backend
 ```
 
 API
 
 ```ssh
 cd api
-npm install
-npm run knex:migrate
-npm run knex:seed
-npm run dev
+yarn install
 ```
 
-Web
+Web(Entre no repositório do frontend)
 
 ```ssh
-cd web
-npm install
-npm run start
+https://github.com/iury0393/upload_frontend
 ```
 
-Mobile
+Mobile(Entre no repositório do mobile)
 
 ```ssh
-cd mobile
-npm install
-npm run start
+https://github.com/iury0393/upload_mobile
 ```
 ## Release History
 
@@ -72,7 +65,7 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/iury0393/upload_files/fork>)
+1. Fork it (<https://github.com/iury0393/upload_backend/fork>)
 2. Create your feature branch (`git checkout -b feature/`)
 3. Commit your changes (`git commit -am 'Add something'`)
 4. Push to the branch (`git push origin feature/`)
