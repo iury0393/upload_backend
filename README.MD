@@ -10,13 +10,16 @@
   <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
   </a>
+  <a href="https://aws.amazon.com/pt/console/">
+    <img src="https://img.shields.io/static/v1?label=AWS&message=S3&color=orange?style=plastic&logo=Amazon" alt="AWS" />
+  </a>
 </p>
 
 ---
 
 ## About
 
-Um projeto para fazer uploads de arquivos, com backend, frontend e mobile
+Um projeto para fazer uploads de arquivos pela AWS S3, com backend, frontend e mobile.
 
 ### Technologies
 
@@ -24,6 +27,7 @@ Um projeto para fazer uploads de arquivos, com backend, frontend e mobile
     <li>Node.Js</li>
     <li>React.Js</li>
     <li>React Native</li>
+    <li>AWS S3</li>
 </ul>
 
 ## Run Project
@@ -38,6 +42,7 @@ API
 
 ```ssh
 cd api
+create a .env file, like the .env-example
 yarn install
 ```
 
@@ -54,6 +59,12 @@ https://github.com/iury0393/upload_mobile
 ```
 ## Release History
 
+- 0.2.0
+  - Criando conexão com a AWS S3
+- 0.1.1
+  - Criando o model
+- 0.1.0
+  - Criando a conexão com o banco local
 - 0.0.1
   - Criando o backend
 
