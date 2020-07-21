@@ -41,7 +41,7 @@ git clone https://github.com/iury0393/upload_backend
 API
 
 ```ssh
-cd api
+cd upload_backend
 create a .env file, like the .env-example
 yarn install
 ```
@@ -59,6 +59,8 @@ https://github.com/iury0393/upload_mobile
 ```
 ## Release History
 
+- 1.0.0
+  - Finalizando o backend
 - 0.2.0
   - Criando conexão com a AWS S3
 - 0.1.1
