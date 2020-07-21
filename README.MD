@@ -2,16 +2,16 @@
 <p align="center">Upload de arquivos</p>
 <p align="center">
   <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
+    <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue&logo=Node.js" alt="NodeJS" />
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/static/v1?label=React&message=JS&color=blue?style=plastic&logo=React" alt="ReactJS" />
+    <img src="https://img.shields.io/static/v1?label=React&message=JS&color=blue&logo=React" alt="ReactJS" />
   </a>
   <a href="https://reactnative.dev/">
-    <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
+    <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue&logo=React" alt="React-Native" />
   </a>
   <a href="https://aws.amazon.com/pt/console/">
-    <img src="https://img.shields.io/static/v1?label=AWS&message=S3&color=orange?style=plastic&logo=Amazon" alt="AWS" />
+    <img src="https://img.shields.io/static/v1?label=AWS&message=S3&color=orange&logo=Amazon" alt="AWS" />
   </a>
 </p>
 
